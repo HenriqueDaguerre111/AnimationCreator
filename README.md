@@ -16,8 +16,8 @@ Um aplicativo interativo que permite aos usuários criar e personalizar animaç�
 
 ## 🚀 Demonstração do Projeto
 
-Acesse o projeto em funcionamento [aqui]([#](https://animation-creator-pi.vercel.app/)).  
-*(Substitua o `#` pelo link do projeto hospedado, como GitHub Pages, Netlify, ou Vercel).*
+Acesse o projeto em funcionamento https://animation-creator-pi.vercel.app/.  
+
 
 ---
 
@@ -52,11 +52,7 @@ HTML5: Estrutura da aplicação.
 CSS3: Estilos e animações.
 JavaScript (ES6+): Interatividade e geração dinâmica de animações.
 📚 Documentação das Funcionalidades
-🖌️ Edição Visual em Tempo Real
-Opacidade: Ajustável com um controle deslizante (0 a 1).
-Tamanho e borda: Editáveis por meio de inputs numéricos.
-Cores: Seletores interativos para cor de fundo e borda.
-Gradientes e imagens de fundo: Adicionados via campos dedicados.
+
 🔄 Animações
 Tipos de animações disponíveis:
 Mover
